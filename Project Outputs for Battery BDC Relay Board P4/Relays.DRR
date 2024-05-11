@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Relays.PcbDoc   11/05/2024  10:30:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Relays.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             2         PTH        1.06inch (26.96mm)
+T2      32mil (0.8mm)                                             Round             32        PTH        12.76inch (324.00mm)
+T3      35mil (0.899mm)                                           Round             12        PTH        4.10inch (104.14mm)
+T4      37mil (0.93mm)                                            Round             12        PTH        5.18inch (131.61mm)
+T5      39mil (0.991mm)                                           Round             7         PTH        0.71inch (18.09mm)
+T6      42mil (1.059mm)                                           Round             12        PTH        7.38inch (187.55mm)
+T7      51mil (1.3mm)                                             Round             32        PTH        14.65inch (372.09mm)
+T8      138mil (3.5mm)                                            Round             12        PTH        13.75inch (349.37mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              121
+
+Total Processing Time (hh:mm:ss) : 00:00:00

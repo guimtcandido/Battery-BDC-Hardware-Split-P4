@@ -303,6 +303,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LOTYMXDU
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Battery BDC Relay Board P4\Design Rule Check - Relays.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
