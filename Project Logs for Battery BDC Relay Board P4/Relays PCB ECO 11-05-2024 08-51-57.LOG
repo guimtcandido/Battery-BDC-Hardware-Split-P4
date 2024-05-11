@@ -1,0 +1,45 @@
+Add Component: Footprint Not Found LED3mm
+Add Component: Footprint Not Found LED3mm
+Add Component: Footprint Not Found LED3mm
+Add Component: Footprint Not Found LED3mm
+Add Component: Footprint Not Found LED3mm
+Add Component: Footprint Not Found LED3mm
+Added Component: Designator=J1(3P JST XH2.54mm 90º)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S3B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J2(4P JST XH2.54mm 90º)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin DS1-1
+Add Pin To Net: Unknown Pin: Pin DS1-2
+Add Pin To Net: Unknown Pin: Pin DS2-1
+Add Pin To Net: Unknown Pin: Pin DS2-2
+Add Pin To Net: Unknown Pin: Pin DS3-1
+Add Pin To Net: Unknown Pin: Pin DS3-2
+Add Pin To Net: Unknown Pin: Pin DS4-1
+Add Pin To Net: Unknown Pin: Pin DS4-2
+Add Pin To Net: Unknown Pin: Pin DS5-1
+Add Pin To Net: Unknown Pin: Pin DS5-2
+Add Pin To Net: Unknown Pin: Pin DS6-1
+Add Pin To Net: Unknown Pin: Pin DS6-2
+Added Pin To Net: NetName=+12 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+24 Pin=J1-3
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Add Class Member: Failed to add class member : Component DS1 LTL-1CHE
+Add Class Member: Failed to add class member : Component DS2 LTL-1CHE
+Add Class Member: Failed to add class member : Component DS3 LTL-1CHE
+Add Class Member: Failed to add class member : Component DS4 LTL-1CHE
+Add Class Member: Failed to add class member : Component DS5 LTL-1CHE
+Add Class Member: Failed to add class member : Component DS6 LTL-1CHE
+Added Member To Class: ClassName=Relays Member=Component J1 S3B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Relays Member=Component J2 S4B-XH-A(LF)(SN)
